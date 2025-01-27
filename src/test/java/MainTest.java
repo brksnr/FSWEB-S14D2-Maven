@@ -1,11 +1,10 @@
 import org.example.model.*;
-import org.example.model.enums.LampType;
 import org.example.model.enums.PaintColor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-
+import org.example.model.enums.LampType;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.lang.reflect.Field;
